@@ -18,7 +18,9 @@ Steps to share your laptop's internet connection with an NI sbRIO device.
 - Select **Internet Protocol Version 4 (TCP/IPv4)** and click **Properties**.
 - Choose the appropriate IP settings.
 
-![Insert screenshot of Ethernet properties and IPv4 settings here](image-link-2)
+![Insert screenshot of Ethernet properties and IPv4 settings here](/images/step2.png)
+![Insert screenshot of Ethernet properties and IPv4 settings here](/images/step3.png)
+![Insert screenshot of Ethernet properties and IPv4 settings here](/images/step4.png)
 
 ---
 
@@ -26,8 +28,9 @@ Steps to share your laptop's internet connection with an NI sbRIO device.
 - Right-click your **Wi-Fi** adapter and select **Properties**.
 - Go to the **Sharing** tab.
 - Enable **Internet Connection Sharing** and select the Ethernet adapter.
-
-![Insert screenshot of Sharing tab here](image-link-3)
+- 
+![Insert screenshot of Sharing tab here](/images/step5.png)
+![Insert screenshot of Sharing tab here](/images/step6.png)
 
 ---
 
@@ -37,7 +40,8 @@ Steps to share your laptop's internet connection with an NI sbRIO device.
   - If **Gateway** and **DNS** fields are filled, the sbRIO is connected to the internet.
   - If they show `0.0.0.0`, disable and re-enable Internet Connection Sharing, then reconnect the LAN cable.
 
-![Insert screenshot of NI MAX showing connected sbRIO here](image-link-4)
+![Insert screenshot of NI MAX showing connected sbRIO here](/images/step7.png)
+![Insert screenshot of NI MAX showing connected sbRIO here](/images/step7-2.png)
 
 ---
 
