@@ -9,7 +9,7 @@ Steps to share your laptop's internet connection with an NI sbRIO device.
 - Go to **Network and Sharing Center**.
 - Click **Change adapter settings**.
 
-![Insert screenshot of Network and Sharing Center here](/images/step1)
+![Insert screenshot of Network and Sharing Center here](/images/step1.png)
 
 ---
 
