@@ -16,7 +16,7 @@ Steps to share your laptop's internet connection with an NI sbRIO device.
 ## 2. Configure Ethernet Adapter
 - Right-click on **Ethernet** and select **Properties**.
 - Select **Internet Protocol Version 4 (TCP/IPv4)** and click **Properties**.
-- Choose the appropriate IP settings.
+- Choose the following settings.
 
 ![Insert screenshot of Ethernet properties and IPv4 settings here](/images/step2.png)
 ![Insert screenshot of Ethernet properties and IPv4 settings here](/images/step3.png)
